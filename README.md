@@ -16,9 +16,9 @@ This repository provides a robust form validation script that ensures user input
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
 git clone https://github.com/pourjavadi/Form-Validation
-   ```
+```
 2. Include the validation script in your HTML file.
 3. Add `data-validation` attributes to your form elements.
 
